@@ -1,7 +1,7 @@
-歡迎~ Welcome to Lumache's documentation!
+歡迎光臨~ Welcome to Lumache's documentation!
 ===================================
 
-**Flag** 試用 RTD。
+**Flag** 試用 RTD。還可以...
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
